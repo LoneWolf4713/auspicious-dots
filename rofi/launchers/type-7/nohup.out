@@ -1,0 +1,43 @@
+[2024-02-29 23:11:12.629] [info] Using configuration file /etc/xdg/waybar/config
+[2024-02-29 23:11:12.631] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[2024-02-29 23:11:12.631] [info] Using CSS file /home/prtyksh/.config/waybar/style.css
+[2024-02-29 23:11:12.639] [warning] module sway/workspaces: Disabling module "sway/workspaces", Socket path is empty
+[2024-02-29 23:11:12.642] [warning] module sway/mode: Disabling module "sway/mode", Socket path is empty
+[2024-02-29 23:11:12.645] [warning] module sway/scratchpad: Disabling module "sway/scratchpad", Socket path is empty
+[2024-02-29 23:11:12.651] [warning] module sway/window: Disabling module "sway/window", Socket path is empty
+[2024-02-29 23:11:12.658] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Permission denied
+[2024-02-29 23:11:12.658] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Permission denied
+[2024-02-29 23:11:12.658] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Permission denied
+[2024-02-29 23:11:12.658] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Permission denied
+[2024-02-29 23:11:12.658] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Permission denied
+[2024-02-29 23:11:12.658] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Permission denied
+[2024-02-29 23:11:12.658] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Permission denied
+[2024-02-29 23:11:12.658] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Permission denied
+[2024-02-29 23:11:12.658] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Permission denied
+[2024-02-29 23:11:12.658] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Permission denied
+[2024-02-29 23:11:12.658] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Permission denied
+[2024-02-29 23:11:12.658] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Permission denied
+[2024-02-29 23:11:12.658] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Permission denied
+[2024-02-29 23:11:12.658] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Permission denied
+[2024-02-29 23:11:12.658] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Permission denied
+[2024-02-29 23:11:12.658] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Permission denied
+[2024-02-29 23:11:12.658] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Permission denied
+[2024-02-29 23:11:12.661] [warning] module sway/language: Disabling module "sway/language", Socket path is empty
+[2024-02-29 23:11:12.662] [warning] No battery named BAT2
+[2024-02-29 23:11:12.786] [info] Bar configured (width: 1920, height: 30) for output: eDP-1
+[2024-02-29 23:11:13.656] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-02-29 23:11:15.657] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-02-29 23:11:17.658] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-02-29 23:11:19.661] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-02-29 23:11:21.662] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-02-29 23:11:23.665] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-02-29 23:11:25.666] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-02-29 23:11:27.668] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-02-29 23:11:29.671] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-02-29 23:11:31.674] [error] mpd: Failed to connect to MPD: Connection refused
+[2024-02-29 23:12:31.860] [info] Using configuration file /home/prtyksh/.config/waybar/config-hypr
+[2024-02-29 23:12:31.862] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[2024-02-29 23:12:31.862] [info] Using CSS file /home/prtyksh/.config/waybar/style.css
+[2024-02-29 23:12:31.868] [warning] Mapping is not an object
+[2024-02-29 23:12:31.868] [info] Hyprland IPC starting
+[2024-02-29 23:12:32.020] [info] Bar configured (width: 1900, height: 39) for output: eDP-1
