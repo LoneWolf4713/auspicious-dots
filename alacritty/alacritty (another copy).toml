@@ -1,0 +1,163 @@
+live_config_reload = true
+working_directory = "None"
+
+[env]
+TERM = "xterm-256color"
+WINIT_X11_SCALE_FACTOR = "1"
+
+[window]
+dynamic_padding = true
+decorations = "full"
+title = "Alacritty@CachyOS"
+opacity = 0.8
+decorations_theme_variant = "Dark"
+
+[window.dimensions]
+columns = 100
+lines = 30
+
+[window.class]
+instance = "Alacritty"
+general = "Alacritty"
+
+[scrolling]
+history = 10000
+multiplier = 3
+
+[colors]
+draw_bold_text_with_bright_colors = true
+
+[colors.primary]
+background = "0x2E3440"
+foreground = "0xD8DEE9"
+
+[colors.normal]
+black = "0x1C1B19"
+red = "0xEF2F27"
+green = "0x519F50"
+yellow = "0xFBB829"
+blue = "0x2C78BF"
+magenta = "0xE02C6D"
+cyan = "0x0AAEB3"
+white = "0xBAA67F"
+
+[colors.bright]
+black = "0x918175"
+red = "0xF75341"
+green = "0x98BC37"
+yellow = "0xFED06E"
+blue = "0x68A8E4"
+magenta = "0xFF5C8F"
+cyan = "0x2BE4D0"
+white = "0xFCE8C3"
+
+[font]
+size = 12
+
+[font.normal]
+family = "monospace"
+style = "Regular"
+
+[font.bold]
+family = "monospace"
+style = "Bold"
+
+[font.italic]
+family = "monospace"
+style = "Italic"
+
+[font.bold_italic]
+family = "monospace"
+style = "Bold Italic"
+
+[selection]
+semantic_escape_chars = ",│`|:\"' ()[]{}<>\t"
+save_to_clipboard = true
+
+[cursor]
+style = "Underline"
+vi_mode_style = "None"
+unfocused_hollow = true
+thickness = 0.15
+
+[mouse]
+hide_when_typing = true
+
+[[mouse.bindings]]
+mouse = "Middle"
+action = "PasteSelection"
+
+[keyboard]
+[[keyboard.bindings]]
+key = "Paste"
+action = "Paste"
+
+[[keyboard.bindings]]
+key = "Copy"
+action = "Copy"
+
+[[keyboard.bindings]]
+key = "L"
+mods = "Control"
+action = "ClearLogNotice"
+
+[[keyboard.bindings]]
+key = "L"
+mods = "Control"
+mode = "~Vi"
+chars = "\f"
+
+[[keyboard.bindings]]
+key = "PageUp"
+mods = "Shift"
+mode = "~Alt"
+action = "ScrollPageUp"
+
+[[keyboard.bindings]]
+key = "PageDown"
+mods = "Shift"
+mode = "~Alt"
+action = "ScrollPageDown"
+
+[[keyboard.bindings]]
+key = "Home"
+mods = "Shift"
+mode = "~Alt"
+action = "ScrollToTop"
+
+[[keyboard.bindings]]
+key = "End"
+mods = "Shift"
+mode = "~Alt"
+action = "ScrollToBottom"
+
+[[keyboard.bindings]]
+key = "V"
+mods = "Control|Shift"
+action = "Paste"
+
+[[keyboard.bindings]]
+key = "C"
+mods = "Control|Shift"
+action = "Copy"
+
+[[keyboard.bindings]]
+key = "F"
+mods = "Control|Shift"
+action = "SearchForward"
+
+[[keyboard.bindings]]
+key = "B"
+mods = "Control|Shift"
+action = "SearchBackward"
+
+[[keyboard.bindings]]
+key = "C"
+mods = "Control|Shift"
+mode = "Vi"
+action = "ClearSelection"
+
+[[keyboard.bindings]]
+key = "Key0"
+mods = "Control"
+action = "ResetFontSize"

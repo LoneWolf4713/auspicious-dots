@@ -1,0 +1,6 @@
+[2024-03-01 10:21:20.833] [info] Using configuration file /home/prtyksh/.config/waybar/config-hypr
+[2024-03-01 10:21:20.834] [info] Unable to receive desktop appearance: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Settings” on object at path /org/freedesktop/portal/desktop
+[2024-03-01 10:21:20.834] [info] Using CSS file /home/prtyksh/.config/waybar/style.css
+[2024-03-01 10:21:20.840] [warning] Mapping is not an object
+[2024-03-01 10:21:20.840] [info] Hyprland IPC starting
+[2024-03-01 10:21:20.890] [info] Bar configured (width: 1920, height: 42) for output: eDP-1
