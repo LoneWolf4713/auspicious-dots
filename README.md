@@ -37,3 +37,11 @@ Thank you!
 	 - Powermenu: rofi/applets/type-4/style-3.rasi
 
 
+# *Wallpapers:*
+![enter image description here](https://i.imgur.com/Gy5ULvp.png)
+![enter image description here](https://i.imgur.com/Gy5osKg.gif)
+![enter image description here](https://i.imgur.com/hfbGM69.png)
+![enter image description here](https://i.imgur.com/jqHPNT5.png)
+![enter image description here](https://i.imgur.com/FzH0VV2.png)
+![enter image description here](https://i.imgur.com/RVC2HBb.jpg)
+![enter image description here](https://i.imgur.com/maGqevZ.png)
