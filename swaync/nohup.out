@@ -1,0 +1,257 @@
+** Message: 22:01:32.734: configModel.vala:289: Loading Config: "/home/prtyksh/.config/swaync/config.json"
+** Message: 22:01:32.734: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:01:32.735: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+** Message: 22:01:32.741: factory.vala:44: Loading widget: title
+** Message: 22:01:32.741: factory.vala:44: Loading widget: dnd
+** Message: 22:01:32.742: factory.vala:44: Loading widget: buttons-grid
+Run_Script Error: Failed to execute child process “hyprshade” (No such file or directory)
+Run_Script Error: Failed to execute child process “hyprshade” (No such file or directory)
+Run_Script Error: Failed to execute child process “hyprshade” (No such file or directory)
+** Message: 22:02:55.998: configModel.vala:289: Loading Config: "/home/prtyksh/.config/swaync/config.json"
+** Message: 22:02:55.999: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:02:56.001: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+** Message: 22:02:56.006: factory.vala:44: Loading widget: title
+** Message: 22:02:56.006: factory.vala:44: Loading widget: dnd
+** Message: 22:02:56.007: factory.vala:44: Loading widget: buttons-grid
+** Message: 22:08:19.771: configModel.vala:289: Loading Config: "/home/prtyksh/.config/swaync/config.json"
+** Message: 22:08:19.772: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:08:19.773: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+** Message: 22:08:19.778: factory.vala:44: Loading widget: title
+** Message: 22:08:19.778: factory.vala:44: Loading widget: dnd
+** Message: 22:08:19.779: factory.vala:44: Loading widget: volume
+** Message: 22:08:19.781: factory.vala:44: Loading widget: backlight
+** Message: 22:08:19.791: factory.vala:44: Loading widget: mpris
+** Message: 22:08:19.792: factory.vala:44: Loading widget: buttons-grid
+Run_Script Error: Failed to execute child process “swaylock-corrupter” (No such file or directory)
+Run_Script Error: Failed to execute child process “iwgtk” (No such file or directory)
+** Message: 22:13:29.374: configModel.vala:289: Loading Config: "/home/prtyksh/.config/swaync/config.json"
+** Message: 22:13:29.375: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:13:29.376: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+** Message: 22:13:29.381: factory.vala:44: Loading widget: inhibitors
+** Message: 22:13:29.381: factory.vala:44: Loading widget: title
+** Message: 22:13:29.381: factory.vala:44: Loading widget: dnd
+** Message: 22:19:10.800: configModel.vala:289: Loading Config: "/home/prtyksh/.config/swaync/config.json"
+** Message: 22:19:10.800: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:19:10.801: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+** Message: 22:19:10.806: factory.vala:44: Loading widget: inhibitors
+** Message: 22:19:10.807: factory.vala:44: Loading widget: title
+** Message: 22:19:10.807: factory.vala:44: Loading widget: dnd
+** Message: 22:19:10.814: factory.vala:44: Loading widget: mpris
+** Message: 22:21:39.399: configModel.vala:289: Loading Config: "/home/prtyksh/.config/swaync/config.json"
+** Message: 22:21:39.399: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:21:39.400: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+** Message: 22:21:39.409: factory.vala:44: Loading widget: label
+** Message: 22:21:39.411: factory.vala:44: Loading widget: menubar
+** Message: 22:21:39.411: factory.vala:44: Loading widget: buttons-grid
+** Message: 22:21:39.412: factory.vala:44: Loading widget: volume
+** Message: 22:21:39.420: factory.vala:44: Loading widget: mpris
+** Message: 22:21:39.420: factory.vala:44: Loading widget: title
+** Message: 22:21:39.420: factory.vala:44: Loading widget: dnd
+Could not acquire notification name. Please close any other notification daemon like mako or dunst
+** Message: 22:21:45.774: configModel.vala:289: Loading Config: "/home/prtyksh/.config/swaync/config.json"
+** Message: 22:21:45.775: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:21:45.776: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+** Message: 22:21:45.784: factory.vala:44: Loading widget: label
+** Message: 22:21:45.786: factory.vala:44: Loading widget: menubar
+** Message: 22:21:45.787: factory.vala:44: Loading widget: buttons-grid
+** Message: 22:21:45.787: factory.vala:44: Loading widget: volume
+** Message: 22:21:45.797: factory.vala:44: Loading widget: mpris
+** Message: 22:21:45.797: factory.vala:44: Loading widget: title
+** Message: 22:21:45.797: factory.vala:44: Loading widget: dnd
+** Message: 22:23:33.349: configModel.vala:289: Loading Config: "/home/prtyksh/.config/swaync/config.json"
+** Message: 22:23:33.350: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:23:33.351: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+** Message: 22:23:33.357: factory.vala:44: Loading widget: title
+** Message: 22:23:33.357: factory.vala:44: Loading widget: dnd
+** Message: 22:23:33.357: factory.vala:44: Loading widget: buttons-grid
+** Message: 22:26:06.179: configModel.vala:289: Loading Config: "/home/prtyksh/.config/swaync/config.json"
+** Message: 22:26:06.180: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:26:06.181: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+** Message: 22:26:06.186: factory.vala:44: Loading widget: title
+** Message: 22:26:06.186: factory.vala:44: Loading widget: dnd
+** Message: 22:26:06.186: factory.vala:44: Loading widget: buttons-grid
+** Message: 22:27:50.647: configModel.vala:289: Loading Config: "/home/prtyksh/.config/swaync/config.json"
+** Message: 22:27:50.647: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:27:50.648: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+** Message: 22:27:50.654: factory.vala:44: Loading widget: title
+** Message: 22:27:50.654: factory.vala:44: Loading widget: dnd
+** Message: 22:27:50.654: factory.vala:44: Loading widget: buttons-grid
+** Message: 22:29:18.316: configModel.vala:289: Loading Config: "/home/prtyksh/.config/swaync/config.json"
+** Message: 22:29:18.317: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:29:18.317: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+** Message: 22:29:18.322: factory.vala:44: Loading widget: title
+** Message: 22:29:18.322: factory.vala:44: Loading widget: dnd
+** Message: 22:29:18.323: factory.vala:44: Loading widget: buttons-grid
+** Message: 22:30:17.732: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:30:17.739: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+[2024-03-01 22:37:27.078] [info] Using configuration file /home/prtyksh/.config/waybar/config-hypr
+[2024-03-01 22:37:27.081] [info] Using CSS file /home/prtyksh/.config/waybar/style.css
+[2024-03-01 22:37:27.087] [warning] Mapping is not an object
+[2024-03-01 22:37:27.087] [info] Hyprland IPC starting
+[2024-03-01 22:37:27.160] [info] Bar configured (width: 1920, height: 42) for output: eDP-1
+[2024-03-01 22:41:00.482] [info] Using configuration file /home/prtyksh/.config/waybar/config-hypr
+[2024-03-01 22:41:00.486] [info] Using CSS file /home/prtyksh/.config/waybar/style.css
+[2024-03-01 22:41:00.492] [warning] Mapping is not an object
+[2024-03-01 22:41:00.492] [info] Hyprland IPC starting
+[2024-03-01 22:41:00.547] [info] Bar configured (width: 1920, height: 42) for output: eDP-1
+** Message: 22:41:03.102: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:41:03.105: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 22:41:18.433: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:41:18.436: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 22:41:24.335: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:41:24.337: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 22:41:41.140: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:41:41.143: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 22:41:48.419: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:41:48.431: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 22:41:59.254: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:41:59.263: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 22:43:12.967: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:43:12.976: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 22:43:42.536: configModel.vala:289: Loading Config: "/home/prtyksh/.config/swaync/config.json"
+** Message: 22:43:42.536: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:43:42.537: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+** Message: 22:43:42.542: factory.vala:44: Loading widget: title
+** Message: 22:43:42.542: factory.vala:44: Loading widget: dnd
+** Message: 22:43:42.542: factory.vala:44: Loading widget: buttons-grid
+** Message: 22:44:59.045: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:44:59.054: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 22:45:19.023: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:45:19.032: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 22:45:22.788: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:45:22.790: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 22:45:44.016: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:45:44.028: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 22:45:50.302: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:45:50.307: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 22:46:02.219: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:46:02.221: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 22:46:04.729: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:46:04.734: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 22:46:12.630: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:46:12.640: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 22:46:43.053: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:46:43.056: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 22:46:45.131: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:46:45.135: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 22:47:12.275: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:47:12.278: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 22:47:15.261: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:47:15.264: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 22:48:07.523: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:48:07.532: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 22:48:10.524: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:48:10.530: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+
+** Message: 22:48:31.829: swayncDaemon.vala:180: Reloading config
+
+** Message: 22:48:31.829: configModel.vala:289: Loading Config: "/home/prtyksh/.config/swaync/config.json"
+** Message: 22:48:31.830: factory.vala:44: Loading widget: title
+** Message: 22:48:31.831: factory.vala:44: Loading widget: dnd
+** Message: 22:48:31.832: factory.vala:44: Loading widget: buttons-grid
+** Message: 22:48:31.840: factory.vala:44: Loading widget: mpris
+** Message: 22:48:33.724: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:48:33.728: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+
+** Message: 22:49:01.503: swayncDaemon.vala:180: Reloading config
+
+** Message: 22:49:01.503: configModel.vala:289: Loading Config: "/home/prtyksh/.config/swaync/config.json"
+** Message: 22:49:01.504: factory.vala:44: Loading widget: title
+** Message: 22:49:01.504: factory.vala:44: Loading widget: dnd
+** Message: 22:49:01.510: factory.vala:44: Loading widget: mpris
+** Message: 22:49:04.275: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:49:04.285: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 22:50:24.673: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:50:24.681: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 22:51:32.360: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:51:32.370: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 22:51:35.389: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:51:35.398: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 22:51:38.739: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:51:38.752: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 22:52:26.502: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:52:26.505: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 22:52:57.380: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:52:57.385: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 22:52:59.759: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:52:59.763: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 22:53:23.169: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:53:23.178: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+
+** Message: 22:54:29.644: swayncDaemon.vala:180: Reloading config
+
+** Message: 22:54:29.644: configModel.vala:289: Loading Config: "/home/prtyksh/.config/swaync/config.json"
+** Message: 22:54:29.649: factory.vala:44: Loading widget: title
+** Message: 22:54:29.650: factory.vala:44: Loading widget: dnd
+** Message: 22:54:29.658: factory.vala:44: Loading widget: backlight
+** Message: 22:54:29.682: factory.vala:44: Loading widget: mpris
+** Message: 22:54:30.804: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:54:30.809: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 22:56:03.213: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:56:03.222: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+
+** Message: 22:56:05.802: swayncDaemon.vala:180: Reloading config
+
+** Message: 22:56:05.802: configModel.vala:289: Loading Config: "/home/prtyksh/.config/swaync/config.json"
+** Message: 22:56:05.809: factory.vala:44: Loading widget: title
+** Message: 22:56:05.810: factory.vala:44: Loading widget: dnd
+** Message: 22:56:05.818: factory.vala:44: Loading widget: backlight
+** Message: 22:56:05.820: factory.vala:44: Loading widget: volume
+** Message: 22:56:05.843: factory.vala:44: Loading widget: mpris
+** Message: 22:56:06.903: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:56:06.912: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 22:57:34.627: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:57:34.633: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 22:58:06.337: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 22:58:06.339: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 23:47:05.362: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 23:47:05.391: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+[2024-03-01 23:47:09.643] [warning] [wireplumber]: (onMixerChanged) - Object with id 65 not found
+[2024-03-01 23:47:09.644] [warning] [wireplumber]: (onMixerChanged) - Object with id 65 not found
+[2024-03-01 23:47:09.660] [warning] [wireplumber]: (onMixerChanged) - Object with id 65 not found
+** Message: 23:55:39.098: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 23:55:39.102: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 00:10:25.266: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 00:10:25.272: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
+** Message: 00:10:30.057: functions.vala:86: Loading CSS: "/etc/xdg/swaync/style.css"
+** Message: 00:10:30.065: functions.vala:100: Loading CSS: "/home/prtyksh/.config/swaync/style.css"
+CSS reload success: true
