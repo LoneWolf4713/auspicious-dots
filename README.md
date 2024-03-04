@@ -38,7 +38,7 @@ Thank you!
 
 
 # *Wallpapers:*
-![enter image description here](https://image-4.uhdpaper.com/a/pc-4k/anime-girl-mask-art-4k-wallpaper-1184a.jpg)
+![enter image description here](https://i.imgur.com/FnAXP3X.jpeg)
 
 ![enter image description here](https://i.imgur.com/Gy5ULvp.png)
 ![enter image description here](https://i.imgur.com/Gy5osKg.gif)
